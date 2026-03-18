@@ -1,0 +1,17 @@
+[
+    {
+        "prediction_prob": 0.0,
+        "actual_label": "attack",
+        "explanation_quality": 3
+    },
+    {
+        "prediction_prob": 0.999992167584299,
+        "actual_label": "attack",
+        "explanation_quality": 3
+    },
+    {
+        "prediction_prob": 0.999992167584299,
+        "actual_label": "normal",
+        "explanation_quality": 4
+    }
+]
