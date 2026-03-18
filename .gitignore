@@ -8,9 +8,9 @@ __pycache__/
 *.pyc
 
 # Data and Models
-datasets/
-data/
-models/
+#datasets/
+#data/
+#models/
 
 # macOS
 .DS_Store
